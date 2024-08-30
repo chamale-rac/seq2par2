@@ -1,5 +1,6 @@
 /*
  * File: parallel_random_number_sorter.cpp
+ * Compile: g++ -fopenmp parallel_random_number_sorter.cpp -o parallel_random_number_sorter
  * Author: Samuel Chamalé
  * Date: 8-29-2024
  *
