@@ -1,6 +1,6 @@
 /*
  * File: sequential_random_number_sorter.cpp
- * Compile: g++ sequential_random_number_sorter.cpp -o sequential_random_number_sorter.cpp
+ * Compile: g++ sequential_random_number_sorter.cpp -o sequential_random_number_sorter
  * Author: Samuel Chamalé
  * Date: 8-29-2024
  *
